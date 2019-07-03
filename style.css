@@ -153,6 +153,9 @@ nav {
     font-size: 12px;
     color: #6E748E;
 }
+.language_text.active{
+    color: #fff;
+}
 
 .social_icons{
     display: flex;
